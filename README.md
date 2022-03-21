@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @awilinska
 - 👀 I’m interested in video games, Raspberry Pi & Arduino, AI, space travelling.
-- 🌱 I’m currently learning Android Studio.
+- 🌱 I’m currently learning PyGame library on RPi.
 - 📫 How to reach me - inlwetrust on Instagram.
 
 <!---
