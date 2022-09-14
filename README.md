@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @awilinska
 - 👀 I’m interested in video games, Raspberry Pi & Arduino, AI, space travelling.
-- 🌱 I’m currently learning PyGame library on RPi.
+- 🌱 I’m currently learning how to use C++ to make game using Unreal Engine.
 - 📫 How to reach me - inlwetrust on Instagram.
 - :computer: LinkedIn - https://www.linkedin.com/in/alicja-wili%C5%84ska-905821226/
 
